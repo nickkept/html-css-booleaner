@@ -38,3 +38,12 @@ header {
 .yellow-text {
     background-color: yellow;
 }
+.th-text {
+    padding: 0px 130px 0px 0px;
+    background-color: #29b6f6;
+    color: white;
+    
+}
+.light-blue {
+    background-color: rgba(0, 255, 255, 0.42);
+}
