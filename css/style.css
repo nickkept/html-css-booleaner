@@ -47,3 +47,21 @@ header {
 .light-blue {
     background-color: rgba(0, 255, 255, 0.42);
 }
+
+#monitor-img {
+    background-image: url(../img/monitor.jpg);
+    background-size: 260px;
+    color: white;
+    padding: 10px 30px 150px 10px ;
+    background-repeat: no-repeat;
+    font-size: larger;
+}
+#graph-img {
+    background-image: url(../img/graph.jpg);
+    background-size: 260px;
+    color: white;
+    padding: 10px 30px 150px 10px ;
+    background-repeat: no-repeat;
+    font-size: larger;
+
+}
