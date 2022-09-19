@@ -1,11 +1,21 @@
-#logo-img {
+header {
      background-image: url("../img/pattern.png");
     background-color: #2784fedb;   
-    background-size: cover;
-}
-
+    background-size: auto 300px ;
     
+    padding: 120px 10px 10px
+    
+
+    ;
+}
 
 #logo-img {
-    
+    height: 50px;
+
 }
+.text-blue {
+    color: blue;
+}
+
+    
+
